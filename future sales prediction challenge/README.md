@@ -1,0 +1,1 @@
+Here's all the code used in the future sales prediction challenge on kaggle and got a rank of 266(top 7.2% as of 18 july 2019)
